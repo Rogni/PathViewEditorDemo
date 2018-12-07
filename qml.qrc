@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EditPoint.qml</file>
+    </qresource>
+</RCC>
